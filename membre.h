@@ -22,6 +22,6 @@ int ajouter_membre(Membre *m);
 int modifier_membre(Membre *m);
 int supprimer_membre(int id);
 int rechercher_membre(int id);
-int afficher_membre(Membre *m);
+
 #endif
 
